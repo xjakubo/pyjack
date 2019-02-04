@@ -6,4 +6,10 @@ Currently not working:
 
 Split function
 
-Cards representation
+Double down function
+
+
+To be improved:
+
+Cards representation (Now it is only randint(2,11)
+
